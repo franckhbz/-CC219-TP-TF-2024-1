@@ -5,5 +5,5 @@ El Objetivo del presente trabajo es brindar una solución a través de redes neu
 Franck Goñas Lopez
 
 **Dataset**
-Para mayor detalle vease el documento TF_Informe_201421134.doc
+Para mayor detalle vease el documento TF_Informe_201421134.docx
 
