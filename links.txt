@@ -1,0 +1,5 @@
+data:
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/data
+
+notebook:
+https://www.kaggle.com/code/ibtesama/getting-started-with-a-movie-recommendation-system/notebook
